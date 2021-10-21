@@ -1,2 +1,2 @@
 # PriceTableCSS
-A tiny Price Table made with CSS
+A tiny Price Table made with CSS 💰
